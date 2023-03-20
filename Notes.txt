@@ -1,0 +1,32 @@
+¡Hola Jose!
+
+El siguiente paso del proceso de selección es una prueba técnica que te adjunto en este correo.
+La fecha límite de entrega de la misma sería el lunes 20 de marzo a las 12 pm.
+
+La prueba tiene dos puntos únicamente, el primero es práctico (desarrollar un API) y el segundo es teórico (únicamente plantear el modelo y crear el código SQL, pero no implementarlo en BD).
+
+La prueba técnica se espera que sea desarrollada en Python, ya que es a lo que te enfrentarás en el día a día en Habi
+
+La idea de la prueba es que nos puedas demostrar estándares en python, buenas prácticas, pruebas unitarias, etc.
+
+No utilizar:
+
+* No utilices un ORM, para poder ver tu habilidad en SQL.
+
+* No utilices ningún Framework, para poder ver tus buenas prácticas, estándares, pruebas unitarias, etc.
+
+Los datos de acceso a la base de datos de la prueba técnica (MySQL):
+
+host: 3.130.126.210
+
+port: 3309
+
+user: pruebas
+
+pass: VGbt3Day5R
+
+schema: habi_db
+
+Si tienes algún problema de conexión a la BD, por favor me escribes de una.
+
+Saludos.

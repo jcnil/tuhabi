@@ -1,0 +1,21 @@
+[
+  "search": {
+    "state": "Cundinamarca",
+    "year": 2010,
+    "city": "bogota"
+  }
+  
+  "response": {
+    "status": "OK",
+    "message": "Exist Property in Local Database",
+    "data": [
+      {
+        "address": "calle 23 #45-67",
+        "city": "bogota",
+        "price": "120000000",
+        "description": "Hermoso apartamento en el centro de la ciudad",
+      }
+      ]
+  }
+]
+
